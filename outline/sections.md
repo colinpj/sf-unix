@@ -59,11 +59,13 @@
 
 ## Text Processing
 
-### JSON
+### JSON / YAML / XML / CSV
 
 #### jq
 
-### CSV
+#### yq
+
+#### xq
 
 #### csvkit - esp sqlite
 
@@ -76,8 +78,6 @@
 ### HTML
 
 #### Web Scraping
-
-### XML
 
 ## Databases
 
