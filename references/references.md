@@ -34,6 +34,8 @@
      *  https://github.com/mikefarah/yq
    * xq : XML query - https://github.com/sibprogrammer/xq
    * xsv : Rust-based CSV CLI toolkit : https://github.com/BurntSushi/xsv
+   * csvcit : Py csv toolkit - https://github.com/wireservice/csvkit
+   * tsv - ebay tsv tools - https://github.com/topics/tsv
    * ripgrep : Fast grep : https://github.com/BurntSushi/ripgrep
    * fzf : https://github.com/junegunn/fzf
    * z : Jump around : https://github.com/rupa/z
@@ -45,3 +47,15 @@
    * git pre-commit-hooks : https://github.com/pre-commit/pre-commit-hooks
    * difftastic : https://github.com/Wilfred/difftastic
    * Miller : mlr : https://github.com/johnkerl/miller
+   * huniq - Rust filter out dups - https://github.com/koraa/huniq
+   * bat - A cat clone https://github.com/sharkdp/bat
+   * hyperfine - CLI benchmarking https://github.com/sharkdp/hyperfine
+   * starship - https://github.com/starship/starship
+   * PDF tools - https://github.com/ropensci/pdftools
+   * proselint - https://github.com/amperser/proselint
+   * GNU Parallel - https://github.com/martinda/gnu-parallel
+   * mermaid - https://github.com/mermaid-js/mermaid
+   * taskwarrior - https://github.com/GothenburgBitFactory/taskwarrior
+   * ncdu - https://github.com/rofl0r/ncdu
+   * pv - pipe viewer - https://github.com/icetee/pv
+   * 
