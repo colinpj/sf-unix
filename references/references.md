@@ -43,6 +43,7 @@
    * jj : https://github.com/martinvonz/jj
    * git-branchless : https://github.com/arxanas/git-branchless
    * sapling : hg fork : https://github.com/facebook/sapling
+   * fossil : https://www.fossil-scm.org/home/doc/trunk/www/quickstart.wiki
    * visidata : https://github.com/saulpw/visidata
    * git pre-commit-hooks : https://github.com/pre-commit/pre-commit-hooks
    * difftastic : https://github.com/Wilfred/difftastic
@@ -59,3 +60,26 @@
    * ncdu - https://github.com/rofl0r/ncdu
    * pv - pipe viewer - https://github.com/icetee/pv
    * bats - Bash Automated Testing System - https://github.com/bats-core/bats-core
+   * shellcheck - https://github.com/koalaman/shellcheck
+   * shfmt - shell parser/formatter https://github.com/mvdan/sh
+   * Graphviz - https://graphviz.org/
+   * cookiecutter - https://github.com/cookiecutter/cookiecutter
+   * howdoi - https://github.com/gleitz/howdoi
+   * sqlite - https://sqlite.org
+   * tiddlywiki - https://github.com/TiddlyWiki
+   * mdbook - https://github.com/rust-lang/mdBook
+   * gitbook - https://github.com/GitbookIO/gitbook
+   * impress.js - https://github.com/impress/impress.js
+   * awk - https://github.com/onetrueawk/awk
+   * fd - Rust find - https://github.com/sharkdp/fd
+   * dataviz : datasette - https://github.com/simonw/datasette
+   * ydata-profiling : https://github.com/ydataai/ydata-profiling
+   * pandas-profiling : https://pypi.org/project/pandas-profiling/
+   * dtale : https://github.com/man-group/dtale
+   * sweetviz : https://github.com/fbdesignpro/sweetviz
+   * pygwalker : https://github.com/Kanaries/pygwalker
+   * streamlit : https://github.com/streamlit
+   * stlite : https://github.com/whitphx/stlite
+   * Posit shinylive : https://github.com/posit-dev/shinylive
+   * RStudio R Markdown - https://github.com/rstudio/rmarkdown
+     
