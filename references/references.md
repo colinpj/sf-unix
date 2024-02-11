@@ -58,4 +58,4 @@
    * taskwarrior - https://github.com/GothenburgBitFactory/taskwarrior
    * ncdu - https://github.com/rofl0r/ncdu
    * pv - pipe viewer - https://github.com/icetee/pv
-   * 
+   * bats - Bash Automated Testing System - https://github.com/bats-core/bats-core
