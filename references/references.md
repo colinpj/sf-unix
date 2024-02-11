@@ -57,6 +57,7 @@
    * GNU Parallel - https://github.com/martinda/gnu-parallel
    * mermaid - https://github.com/mermaid-js/mermaid
    * taskwarrior - https://github.com/GothenburgBitFactory/taskwarrior
+   * todo.sh - https://github.com/todotxt/todo.txt-cli
    * ncdu - https://github.com/rofl0r/ncdu
    * pv - pipe viewer - https://github.com/icetee/pv
    * bats - Bash Automated Testing System - https://github.com/bats-core/bats-core
@@ -82,4 +83,75 @@
    * stlite : https://github.com/whitphx/stlite
    * Posit shinylive : https://github.com/posit-dev/shinylive
    * RStudio R Markdown - https://github.com/rstudio/rmarkdown
-     
+
+## Playgrounds
+
+* Python
+* R
+* Bash
+  * Explainshell - 
+* Regular Expression
+* 
+
+## Cheat Sheets
+* bash oneliners - https://www.bashoneliners.com/oneliners/popular/
+* commandline fu - https://www.commandlinefu.com/commands/browse
+
+## Bash 
+* Bash Unofficial Strict Mode - http://redsymbol.net/articles/unofficial-bash-strict-mode/
+
+## Mental Models
+* Chesterton's Gate
+* Sunk Cost Fallacy
+* YAGNI
+* DRY / Moist
+* Sharpen The Saw
+
+## Writing
+
+## Practice
+* katas
+* Programming etudes
+* Advent of code
+* LeetCode / HackerRank
+
+## ACM Turing Award Vids / Papers
+* 'The Emperor Has No Clothes' - Hoare
+* '??' - Wirth
+* '??' - Dijystra
+* '??' - TLA+ / Leslie Lamport
+* '??' - Iverson
+* '??' - Knuth
+* '??' - Alan Kay / SmallTalk
+
+## Programing Paradigms
+* Functional/Pragmatic - Lisp
+* Functional/Pure - Haskell / Curry
+* Imperative
+* Constraint
+* OOP : SmallTalk
+* Data-Oriented : Forth
+* Functional Reactive
+* Concurrent : Erlang / Elixir
+* Low-level : ASM : WASM / x86, ARM
+
+## Programming Languages
+* Bash / Zsh
+* Python
+* JavaScript / Node.js / TypeScript / Deno
+* AppleScript / VisualBasic
+* Perl
+* AWK
+* Guile / CommonLisp
+* Racket / Clojure
+* Java / Scala / JVM
+* NET / F# , C# , PowerShell
+
+## Design Patterns Applied
+* Unix Design Patterns
+* OOP Design Patterns
+* SQL Design Patterns
+
+## Antipatterns
+
+
