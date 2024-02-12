@@ -106,6 +106,8 @@
    * expect - https://core.tcl-lang.org/expect/index
    * pexpect - https://pypi.org/project/pexpect/
    * ragel - lexer - https://github.com/adrian-thurston/ragel
+   * Data Generation Language - DGL - Maurer @ Baylor : https://cs.baylor.edu/~maurer/dgl.php
+   * 
 
 ## Playgrounds
 
