@@ -85,13 +85,15 @@
    * stlite : https://github.com/whitphx/stlite
    * Posit shinylive : https://github.com/posit-dev/shinylive
    * RStudio R Markdown - https://github.com/rstudio/rmarkdown
+   * bashly : Bash Framework : https://github.com/DannyBen/bashly
 
 ## Playgrounds
 
 * Python
 * R
 * Bash
-  * Explainshell - 
+  * Explainshell -
+  * Bashly - https://github.com/DannyBen/bashly
 * Regular Expression
 * 
 
