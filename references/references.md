@@ -105,7 +105,7 @@
    * newsboat - RSS feed reader : https://newsboat.org/index.html
    * expect - https://core.tcl-lang.org/expect/index
    * pexpect - https://pypi.org/project/pexpect/
-   * 
+   * ragel - lexer - https://github.com/adrian-thurston/ragel
 
 ## Playgrounds
 
