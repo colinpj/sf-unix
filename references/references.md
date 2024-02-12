@@ -103,6 +103,9 @@
    * screen recording : bash record
    * screen recoding : asciinema :
    * newsboat - RSS feed reader : https://newsboat.org/index.html
+   * expect - https://core.tcl-lang.org/expect/index
+   * pexpect - https://pypi.org/project/pexpect/
+   * 
 
 ## Playgrounds
 
