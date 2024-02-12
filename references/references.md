@@ -3,6 +3,8 @@
    * The Unix Programming Environment
    * The Practice of Programming
    * Pragmatic Programmer
+   * Programming Pearls / More Programming Pearls : John Bentley
+   * 
    * The Art Of Unix Programming
    * Literate Programming - Knuth
    * Code Complete - 2E
