@@ -27,7 +27,9 @@
 
 ## Papers
 
-## Tool references
+## Tool references 
+   * tmux - https://github.com/tmux/tmux
+   * zellij - https://zellij.dev/ and https://github.com/zellij-org/zellij
    * jqp : jq Playground - https://github.com/noahgorstein/jqp
    * jq : Json query - https://github.com/jqlang/jq
    * yq : YAML / JSON / CSV / XML / TOML / Properties query
