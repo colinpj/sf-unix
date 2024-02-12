@@ -3,26 +3,36 @@
    * The Unix Programming Environment
    * The Practice of Programming
    * Pragmatic Programmer
-   * The Philosophy Of Unix
+   * The Art Of Unix Programming
+   * Literate Programming - Knuth
+   * Code Complete - 2E
    * Sharp Tools - PragProg
    * Tmux 2E - PragProg
    * The Awk Book
    * Friedl : Mastering Regular Expressions 3E
    * Perl Best Practices
    * Software Engineering At Google
-   * 
+   * Software Tools in Pascal - Kernighan
+   * Linux API Book
+   * Automate the Boring Stuff
+   * Ruby Command Line Apps : 2E  : PragProg
 
 ## Courses
 
    * MIT Missing Semester
    * Software Carpentry
    * Data Carpentry
+   * The Unix Workbench : John Hopkins : https://www.coursera.org/learn/unix
 
 ## Vids
 
    * DevOps Toolbox - starship
    * Unix History - Unix text file processing
    * Unix : John Hopkins course
+
+## Youtube / Web Tutorials
+   * https://dev.to/equiman/iterm2--oh-my-zsh--powerlevel9k-best-terminal-combination-for-geeks-58l5#cheatsheet-key-shortcuts
+   * https://www.masteringemacs.org/article/keyboard-shortcuts-every-command-line-hacker-should-know-about-gnu-readline
    * 
 
 ## Papers
@@ -86,6 +96,11 @@
    * Posit shinylive : https://github.com/posit-dev/shinylive
    * RStudio R Markdown - https://github.com/rstudio/rmarkdown
    * bashly : Bash Framework : https://github.com/DannyBen/bashly
+   * rlwrap : https://github.com/hanslub42/rlwrap : 
+   * readline configuration :
+   * screen recording : bash record
+   * screen recoding : asciinema :
+   * newsboat - RSS feed reader : https://newsboat.org/index.html
 
 ## Playgrounds
 
@@ -153,6 +168,7 @@
 
 ## Design Patterns Applied
 * Unix Design Patterns
+  * http://www.catb.org/~esr/writings/taoup/html/ch11s06.html
 * OOP Design Patterns
 * SQL Design Patterns
 
