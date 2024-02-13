@@ -40,6 +40,11 @@
 ## Papers
   * A Plea For Lean Software : Wirth : https://cr.yp.to/bib/1995/wirth.pdf
   * The Emperor's Old Clothes : Hoare : https://dl.acm.org/doi/pdf/10.1145/358549.358561
+  * One Man's View Of Computer Science : Hamming : https://dl.acm.org/doi/pdf/10.1145/321495.321497
+  * A Humble Programmer : Dijkstra : https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html
+  * Notation As A Tool Of Thought : Iverson : https://dl.acm.org/doi/pdf/10.1145/358896.358899
+  * A New Golden Age For Computer Architecture : Hennessy & Patterson : https://www.doc.ic.ac.uk/~wl/teachlocal/arch/papers/cacm19golden-age.pdf
+  * 
 
 ## Tool references 
    * tmux - https://github.com/tmux/tmux
@@ -56,6 +61,8 @@
    * fzf : https://github.com/junegunn/fzf
    * z : Jump around : https://github.com/rupa/z
    * stow : https://github.com/aspiers/stow
+     * https://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html
+     * https://alex.pearwin.com/2016/02/managing-dotfiles-with-stow/
    * jj : https://github.com/martinvonz/jj
    * git-branchless : https://github.com/arxanas/git-branchless
    * sapling : hg fork : https://github.com/facebook/sapling
