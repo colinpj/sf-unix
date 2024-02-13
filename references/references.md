@@ -99,9 +99,10 @@
    * RStudio R Markdown - https://github.com/rstudio/rmarkdown
    * bashly : Bash Framework : https://github.com/DannyBen/bashly
    * rlwrap : https://github.com/hanslub42/rlwrap : 
-   * readline configuration :
+   * readline configuration : https://www.masteringemacs.org/article/keyboard-shortcuts-every-command-line-hacker-should-know-about-gnu-readline
    * screen recording : bash record
-   * screen recoding : asciinema :
+   * screen recoding : asciinema : https://github.com/asciinema/asciinema
+   * terminalizer : https://github.com/faressoft/terminalizer
    * newsboat - RSS feed reader : https://newsboat.org/index.html
    * expect - https://core.tcl-lang.org/expect/index
    * pexpect - https://pypi.org/project/pexpect/
