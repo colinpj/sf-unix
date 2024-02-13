@@ -38,6 +38,8 @@
    * 
 
 ## Papers
+  * A Plea For Lean Software : Wirth : https://cr.yp.to/bib/1995/wirth.pdf
+  * The Emperor's Old Clothes : Hoare : https://dl.acm.org/doi/pdf/10.1145/358549.358561
 
 ## Tool references 
    * tmux - https://github.com/tmux/tmux
