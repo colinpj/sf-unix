@@ -1,10 +1,11 @@
 # References
 
+   * Command Line API Guidelines : https://clig.dev/
    * The Unix Programming Environment
    * The Practice of Programming
    * Pragmatic Programmer
    * Programming Pearls / More Programming Pearls : John Bentley
-   * 
+   * Unix Power Tools : 3E
    * The Art Of Unix Programming
    * Literate Programming - Knuth
    * Code Complete - 2E
@@ -21,9 +22,10 @@
 
 ## Courses
 
-   * MIT Missing Semester
-   * Software Carpentry
-   * Data Carpentry
+   * MIT Missing Semester : https://missing.csail.mit.edu/
+   * Modern Plain Text Computing : https://mptc.io/
+   * Software Carpentry : https://software-carpentry.org/
+   * Data Carpentry : https://datacarpentry.org/
    * The Unix Workbench : John Hopkins : https://www.coursera.org/learn/unix
 
 ## Vids
