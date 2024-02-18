@@ -61,6 +61,8 @@
    * fzf : https://github.com/junegunn/fzf
    * z : Jump around : https://github.com/rupa/z
    * grc : Generic Colourizer : https://github.com/garabik/grc
+   * git delta : file diff using same lang colorizer as bat :
+   *   https://github.com/dandavison/delta
    * stow : https://github.com/aspiers/stow
      * https://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html
      * https://alex.pearwin.com/2016/02/managing-dotfiles-with-stow/
