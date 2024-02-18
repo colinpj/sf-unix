@@ -48,6 +48,8 @@
 
 ## Tool references 
    * tmux - https://github.com/tmux/tmux
+   * cpd - copy paste detector - part of PMD
+     *  https://github.com/pmd/pmd 
    * zellij - https://zellij.dev/ and https://github.com/zellij-org/zellij
    * jqp : jq Playground - https://github.com/noahgorstein/jqp
    * jq : Json query - https://github.com/jqlang/jq
