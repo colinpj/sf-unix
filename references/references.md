@@ -35,7 +35,8 @@
 ## Youtube / Web Tutorials
    * https://dev.to/equiman/iterm2--oh-my-zsh--powerlevel9k-best-terminal-combination-for-geeks-58l5#cheatsheet-key-shortcuts
    * https://www.masteringemacs.org/article/keyboard-shortcuts-every-command-line-hacker-should-know-about-gnu-readline
-   * 
+   * Awesome Command Line Tools : PyCon 2017
+     * https://www.youtube.com/watch?v=hJhZhLg3obk
 
 ## Papers
   * A Plea For Lean Software : Wirth : https://cr.yp.to/bib/1995/wirth.pdf
