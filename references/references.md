@@ -1,6 +1,8 @@
 # References
 
    * Command Line API Guidelines : https://clig.dev/
+   * Instantly Better Presentations : Conway :
+     * http://damian.conway.org/IBP.pdf
    * The Unix Programming Environment
    * The Practice of Programming
    * Pragmatic Programmer
