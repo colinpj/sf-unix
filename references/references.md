@@ -53,6 +53,7 @@
 
 ## Tool references 
    * tmux - https://github.com/tmux/tmux
+   * pandoc - https://pandoc.org/
    * cpd - copy paste detector - part of PMD
      * https://pmd.github.io/
      * https://github.com/pmd/pmd
