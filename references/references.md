@@ -15,6 +15,7 @@
    * Tmux 2E - PragProg
    * The Awk Book
    * Friedl : Mastering Regular Expressions 3E
+     * https://www.geeksforgeeks.org/perl-assertions-in-regex/
    * Perl Best Practices
    * Software Engineering At Google
    * Software Tools in Pascal - Kernighan
