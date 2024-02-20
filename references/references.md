@@ -30,6 +30,7 @@
    * Software Carpentry : https://software-carpentry.org/
    * Data Carpentry : https://datacarpentry.org/
    * The Unix Workbench : John Hopkins : https://www.coursera.org/learn/unix
+   * SQL For Data Scientists Tutorial : https://gvwilson.github.io/sql-tutorial/
 
 ## Vids
 
