@@ -22,6 +22,7 @@
    * Linux API Book
    * Automate the Boring Stuff
    * Ruby Command Line Apps : 2E  : PragProg
+   * The Art of HPC : UT : Books : https://theartofhpc.com/
 
 ## Courses
 
