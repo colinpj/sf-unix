@@ -45,6 +45,7 @@
 
 ## Papers
   * A Plea For Lean Software : Wirth : https://cr.yp.to/bib/1995/wirth.pdf
+  * Taking notes in vim and LaTex : https://castel.dev/post/lecture-notes-1/
   * The Emperor's Old Clothes : Hoare : https://dl.acm.org/doi/pdf/10.1145/358549.358561
   * One Man's View Of Computer Science : Hamming : https://dl.acm.org/doi/pdf/10.1145/321495.321497
   * A Humble Programmer : Dijkstra : https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html
@@ -54,6 +55,10 @@
 
 ## Tool references 
    * tmux - https://github.com/tmux/tmux
+   * TUI - Python : Prompt Toolkit
+     * https://github.com/prompt-toolkit/python-prompt-toolkit
+   * PDF Toolkit :
+   * 
    * pandoc - https://pandoc.org/
    * cpd - copy paste detector - part of PMD
      * https://pmd.github.io/
